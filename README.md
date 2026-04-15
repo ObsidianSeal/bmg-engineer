@@ -1,5 +1,7 @@
 # bmg.engineer
 
+[![CodeFactor](https://www.codefactor.io/repository/github/obsidianseal/bmg-engineer/badge)](https://www.codefactor.io/repository/github/obsidianseal/bmg-engineer)
+
 There&rsquo;s nothing here yet, just a redirect to [pinniped.page](https://pinniped.page/).
 
 This is where my serious stuff will go, if I ever find the time to work on the [website](https://bmg.engineer/).
